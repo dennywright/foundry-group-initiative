@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.5.0 (2021-09-01)
+
+- rumor has that it works if you install the latest
+
+## 1.4.0 (2020-10-05)
+
+- latest version on tonsifisler/foundry-group-initiative
+
 ## 1.3.1 (2020-05-22)
 
 - add Korean language support (thanks @KLO#1490)
